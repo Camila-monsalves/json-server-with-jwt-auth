@@ -15,7 +15,7 @@
           "comuna_empleo": "Concepción",
           "region_empleo": "Biobío",
           "categoria": "Empleo Formal",
-          "precio_empleo": "26000",
+          "precio_empleo": "26.000",
           "horario_inicio": "09:30",
           "horario_salida": "18:00",
           "fecha_publicacion": "02 de enero 2022",
@@ -29,7 +29,7 @@
       "comuna_empleo": "Concepción",
       "region_empleo": "Biobío",
       "categoria": "Empleo Formal",
-      "precio_empleo": "8000000",
+      "precio_empleo": "800.000",
       "horario_inicio": "09:00",
       "horario_salida": "18:00",
       "fecha_publicacion": "29 de diciembre 2021",
@@ -43,7 +43,7 @@
       "comuna_empleo": "Concepción",
       "region_empleo": "Biobío",
       "categoria": "Empleo Formal",
-      "precio_empleo": "1200000",
+      "precio_empleo": "1.200.000",
       "horario_inicio": "08:00",
       "horario_salida": "18:30",
       "fecha_publicacion": "02 de enero 2022",
@@ -94,89 +94,7 @@
       "metodo_pago": "Transferencia",
       "nombre_usuario": "Vania Espinoza"
   
-    },
-    {
-      "id": 4, 
-      "nombre_empleo": "Cortad Césped", 
-      "detalle_empleo": "Se necesita persona para jardinear, se entregan todos los implementos, se requiere solo disposición",
-      "direccion_empleo": "Barrio Norte #50",
-      "comuna_empleo": "Concepción",
-      "region_empleo": "Biobío",
-      "categoria": "Empleo inmediato",
-      "precio_empleo": "22.000",
-      "fecha_y_hora": "",
-      "fecha_publicacion": "19 de diciembre 2021",
-      "metodo_pago": "Efectivo",
-      "nombre_usuario": "Luis Sepúlveda"
     }
-  ],
-  "capacitaciones": [ {
-    "id_cap": 1,
-    "nombre_cap": "Ingeniero de Software",
-    "detalle_cap": "Capacitación básica para desarrollo de software en html",
-    "categoria":"Desarrollo",
-    "empresa":"CMPC"
-
-  },
-  {
-    "id_cap": 2,
-    "nombre_cap": "Empleado Dunkin Donats",
-    "detalle_cap": "Capacitación cajero y preparaciones del negocio",
-    "categoria":"Tienda",
-    "empresa":"Dunkin Donuts"
-
-  },
-  {
-    "id_cap": 3,
-    "nombre_cap": "Empleado Mack Donals",
-    "detalle_cap": "Capacitación para cocina y labores acordes al negocio",
-    "categoria":"Cocina",
-    "empresa":"Mack Donals"
-
-  },
-  {
-    "id_cap": 4,
-    "nombre_cap": "Capacitación Cinemark",
-    "detalle_cap": "Capacitación para conocer labores de cajero, aseo y preparación de comida",
-    "categoria":"Tienda",
-    "empresa":"Cinemark"
-
-  },
-  {
-    "id_cap": 5,
-    "nombre_cap": "Capacitación Arcgis Pro",
-    "detalle_cap": "Conocimientos básicos de arcgis para el desarrollo de una app para el area forestal",
-    "categoria":"Informatica",
-    "empresa":"CMPC"
-
-  }
-  ],"categorias": [
-    {
-      "nombre": "Desarrollo",
-      "id": 1
-    },
-    {
-      "nombre": "Cocina",
-      "id": 2
-    },
-    {
-      "nombre": "Tienda",
-      "id": 3
-    },
-    {
-      "nombre": "Informatica",
-      "id": 4
-    }
-  ],
-  "usuarios": [ {
-    "run": "195094470",
-    "nombre_usuario": "Vania Espinoza Jara",
-    "ocupacion":"Estudiante",
-    "educacion":"UCSC",
-    "direccion":"Pasaje H 27 Concepcion, Bio-Bio. Chile",
-    "correo":"vania.espinoza@gmail.com",
-    "contraseña": "vania123"
-
-  }]
+  ]
 }
 
