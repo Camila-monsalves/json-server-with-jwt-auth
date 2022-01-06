@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "empleos": [ {
+    "id_empleo": 1,
+    "nombre_empleo": "Ingeniero de Software",
+    "detalle_empleo": "prueba",
+    "direccion_empleo":"prueba",
+    "comuna_empleo":"prueba",
+    "region_empleo":"prueba",
+    "categoria":"prueba",
+    "sueldo": 300000,
+    "horario":"prueba",
+    "curriculum":"prueba"
+    
+  },
+  {
+    "id_empleo": 2,
+    "nombre_empleo": "Ingeniero Informático",
+    "detalle_empleo": "prueba",
+    "direccion_empleo":"prueba",
+    "comuna_empleo":"prueba",
+    "region_empleo":"prueba",
+    "categoria":"prueba",
+    "sueldo": 300000,
+    "horario":"prueba",
+    "curriculum":"prueba"
+    
+  }
+  ]
+}
